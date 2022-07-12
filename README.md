@@ -3,7 +3,7 @@ calorie counter app built with the django framework...
 
 ### To run this project 
 
-1. clone this project into local machine using : ```git clone https://github.com/shubhamAW/calorie_counter_app.git```
+1. clone this project into local machine using : ```git clone https://github.com/ashu1281/calorie_counter_app.git```
 
 2. go to the project folder : ```cd calorie_counter_app```
 
@@ -39,7 +39,7 @@ calorie counter app built with the django framework...
 <img width="700" alt="image" src="https://user-images.githubusercontent.com/66414385/170869168-30038700-ec11-450a-ab98-08de97f2601b.png">
 
 *for any query connect to linkedin*
-https://www.linkedin.com/in/shubhamwaykar/ 
+www.linkedin.com/in/ashishggaikwad 
 
 
 
