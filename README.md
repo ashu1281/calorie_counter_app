@@ -29,14 +29,28 @@ calorie counter app built with the django framework...
 
 13. output screens : 
 
-<img width="700" alt="image" src="https://user-images.githubusercontent.com/66414385/170868998-b543501e-aaf3-468d-bed7-50c47c1516f2.png">
+login/sign up with your information
+![image](https://user-images.githubusercontent.com/98692616/178476551-bd756aa4-3caa-4a01-a6a2-93f4d41d2e1c.png)
+![image](https://user-images.githubusercontent.com/98692616/178476717-b8f560cf-4c8a-4f98-80a7-f9b56183e3ae.png)
 
-<img width="700" alt="image" src="https://user-images.githubusercontent.com/66414385/170869085-cff46333-d4f7-4476-b03c-9f5abc2bdaaa.png">
+Add Food
+![image](https://user-images.githubusercontent.com/98692616/178477029-5156b5fb-c08a-4fdf-bc8c-b6f6d956ecf1.png)
 
+Search Food
+![image](https://user-images.githubusercontent.com/98692616/178477119-13e5cc8d-03fb-4b43-a040-9e112b3c9f42.png)
 
-<img width="700" alt="image" src="https://user-images.githubusercontent.com/66414385/170869151-113f105c-73b1-47d1-a13c-a3401b219ece.png">
+Select Food
+![image](https://user-images.githubusercontent.com/98692616/178477262-dac52ce8-5b16-44fb-aec2-f68e51f5fc03.png)
 
-<img width="700" alt="image" src="https://user-images.githubusercontent.com/66414385/170869168-30038700-ec11-450a-ab98-08de97f2601b.png">
+Enter calorie goal
+![image](https://user-images.githubusercontent.com/98692616/178477816-1d54ea12-43cd-4ad1-9367-eba3f8682cd4.png)
+
+see profile
+![image](https://user-images.githubusercontent.com/98692616/178478241-85e19530-2b3f-4e3f-ad01-40b373590319.png)
+
+logout by clicking on logout button 
+![image](https://user-images.githubusercontent.com/98692616/178478474-f766997a-e0b1-4f79-bd24-9bd86e427511.png)
+
 
 *for any query connect to linkedin*
 www.linkedin.com/in/ashishggaikwad 
